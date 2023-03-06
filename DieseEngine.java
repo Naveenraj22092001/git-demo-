@@ -3,5 +3,9 @@ public class DieseEngine{
 		public void start() {
 			System.out.println("Diesel engine is started.");
 		}
+		
+		public void stop() {
+			System.out.println("Diesel engien is stoped.");
+		}
 	}
 }
