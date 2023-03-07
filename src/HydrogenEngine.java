@@ -4,5 +4,7 @@ public class HydrogenEngine {
 		System.out.println("Started");
 	}
 	
-	
+	public void stop() {
+		System.out.println("Stopped");
+	}
 }
