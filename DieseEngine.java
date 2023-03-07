@@ -7,5 +7,9 @@ public class DieseEngine{
 		public void stop() {
 			System.out.println("Diesel engien is stoped.");
 		}
+		
+		public void makeSound() {
+			System.out.println("woof woof woof");
+		}
 	}
 }
