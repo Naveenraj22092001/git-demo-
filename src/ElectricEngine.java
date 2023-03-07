@@ -7,4 +7,6 @@ public class ElectricEngine {
 		public void stop() {
 			System.out.println("Stoped");
 		}
+		
+		
 }
